@@ -13,6 +13,8 @@ body {
     width:200px;
     border-radius: 50%;
     border: 6px solid #efb0c9;
+    margin-bottom: 10px;
+
 }
 
 #bday-age{
@@ -53,6 +55,8 @@ h2, h4 {
 
 .gift-title {
     margin-bottom: 10px;
+    margin-right: 10px;
+    
 }
 
 .gift-hint {
